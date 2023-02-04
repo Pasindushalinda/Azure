@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFundamentals", "AzureFundamentals\AzureFundamentals.csproj", "{C327EE5B-FC97-4AB4-BB21-2C53073E0F37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobFundamentals", "AzureBlobFundamentals\AzureBlobFundamentals.csproj", "{C327EE5B-FC97-4AB4-BB21-2C53073E0F37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
