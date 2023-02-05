@@ -13,4 +13,10 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="Newtonsoft.Json">
+        <HintPath>..\..\..\..\..\Working\Azure\v4\4.30.0\Newtonsoft.Json.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
